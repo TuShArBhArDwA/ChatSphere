@@ -1,6 +1,7 @@
 # ChatSphere - Real-Time Chat Application
 
-![image](https://github.com/user-attachments/assets/dbde3d43-2cf6-481d-9ef4-fb756f9716d4)
+![image](https://github.com/user-attachments/assets/9bae32f9-8891-44de-a4e2-2374d80ee7aa)
+
 
 
 ## Table of Contents
