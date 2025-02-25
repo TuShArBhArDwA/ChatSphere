@@ -2,8 +2,10 @@ import React from 'react'
 import './Chat.css'
 const Chat = () => {
   return (
-    <div className='login'>
-      <img src="" alt="" className='logo'/>
+    <div className="chat">
+      <div className="chat-container">
+        
+      </div>
     </div>
   )
 }
