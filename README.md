@@ -1,6 +1,7 @@
 # ChatSphere - Real-Time Chat Application
 
-![ChatSphere Banner](https://github.com/user-attachments/assets/chatapp-banner.png)
+![image](https://github.com/user-attachments/assets/dbde3d43-2cf6-481d-9ef4-fb756f9716d4)
+
 
 ## Table of Contents
 - [About the Project](#about-the-project)
